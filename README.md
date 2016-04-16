@@ -1,12 +1,12 @@
 ## Codecademy Time!
 
-### This is from Learn AngularJS: Your First App
+### This is from Learn AngularJS
 
-In order for this app to work properly, you will need the following files in a directory named 'shared':
-* angular-mocks
-* angular-route.min
-* angular.min
+I am at: Unit 2 - Directives
 
-(Make sure you put a .js extension on the end)
+In order for these apps to work properly, you will need the following files in the js/shared directory:
+* angular-mocks.js
+* angular-route.min.js
+* angular.min.js
 
 Just open index.html in your browser and play with it.
