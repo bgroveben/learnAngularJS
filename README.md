@@ -4,9 +4,4 @@
 
 I am at: Unit 2 - Directives
 
-In order for these apps to work properly, you will need the following files in the js/shared directory:
-* angular-mocks.js
-* angular-route.min.js
-* angular.min.js
-
-Just open index.html in your browser and play with it.
+Each unit has its own directory nested under learnAngularJS. Find the index.html file and open it in your browser.
